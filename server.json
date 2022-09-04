@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2022-09-03T22:32:22.503Z",
       "id": 4
+    },
+    {
+      "description": "Supermercado",
+      "price": 800,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-09-04T11:25:51.573Z",
+      "id": 5
     }
   ]
 }
